@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.json.bak
+node_modules/
+dist/
+.env
+*.egg-info/
+.vite/
+action_history.json
+reasoning_cache.json
